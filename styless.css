@@ -26,3 +26,19 @@ a{
     color: #fff;
     text-decoration: none;
 }
+
+p {
+    margin: 0.5rem 0;
+}
+
+img {
+    width: 100%;
+}
+
+.showcase {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background: url('img/hero.58eb0a0f06c2e3430a27.jpeg') no-repeat center center/cover;
+
+}
