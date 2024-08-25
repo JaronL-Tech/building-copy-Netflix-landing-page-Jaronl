@@ -1,5 +1,6 @@
 :root {
     --prmary-color: #e50917;
+    --dark-color: #141414;
 }
 
 * {
@@ -104,6 +105,14 @@ img {
     font-size: 1.9rem;
     line-height: 1.25;
     margin: 0,0 2rem;
+}
+
+/* tabs */
+.tabs{
+    background: var(--dark-color);
+    padding-top: 1rem;
+    border-bottom: 3px solid #3d3d3d;
+
 }
 
 
