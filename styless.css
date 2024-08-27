@@ -137,6 +137,10 @@ img {
     cursor: pointer;
 }
 
+.tab-border {
+    border-bottom: var(--prmary-color)4px solid;
+}
+
 
 /* Container */
 .container {
