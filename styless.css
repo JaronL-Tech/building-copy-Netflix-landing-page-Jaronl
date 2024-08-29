@@ -141,6 +141,15 @@ img {
     border-bottom: var(--prmary-color)4px solid;
 }
 
+/*Tab Content*/
+
+.tab-content {
+    padding: 3rem 0;
+    background-color: #000;
+    color: #fff;
+
+}
+
 #tab-1-content .tab-1-content-inner {
 display: grid;
 grid-template-columns: repeat(2,1fr);
@@ -162,11 +171,13 @@ justify-content: center;
 .text-xl {
     font-size: 2rem;
     margin-bottom: 1rem;
+    
 }
 
 .text-lg {
     font-size: 21.8rem;
     margin-bottom: 1rem;
+    
 }
 
 .text-center {
